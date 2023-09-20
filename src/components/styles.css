@@ -1,0 +1,83 @@
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  .botclr {
+    background-color: black !important;
+    box-shadow:none !important;
+  }
+  .cta {
+    display: block;
+    color: #fff,
+   
+  }
+  
+  .css-18zwdlt-MuiPaper-root {
+    padding: none;
+    
+  }
+  .imgg:hover{
+    transform: scale(1.2);
+    opacity: 1;
+    transition: 0.2s ease-in;
+  }
+
+  .imgg {
+    border-radius: 10px;
+    overflow: hidden;
+    transition: 0.1s ease-out;
+  
+   
+    box-shadow: 5px 5px 10px 5px #0000008a;
+  }
+  @media only screen and (max-width: 600px) {
+    .cimg {
+      display: flex;
+      width: 100%;
+     
+     
+    }
+  }
+  .caroimg {
+    box-shadow: 0px 0px 0px !important;
+    padding: 0 !important;
+   
+  
+   
+  }
+  @media only screen and (min-width: 600px) {
+    .cimg {
+      display: flex;
+      width: 100%;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    .cimg {
+      display: flex;
+      width: 100%;
+    }
+  }
+  @media only screen and (min-width: 992px) {
+    .cimg {
+      display: flex;
+      width: 100%;
+     
+    }
+  } 
+  .css-yrsunx-MuiPaper-root {
+    padding: 0 !important;
+  }
+  .carobotimg {
+    padding: 0 !important;
+  }
+  .css-1039hyc-MuiContainer-root {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    border-radius: 10 !important ;
+  }
+  .css-1psmp5f-MuiPaper-root {
+    padding: 0 !important;
+    border-radius: 4;
+  }
